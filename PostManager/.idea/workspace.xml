@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f5806f90-1930-43eb-80f5-6120a4690d30" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/PostManager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/application.config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/Model.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/boot.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/Screenshot from 2020-09-12 16-18-55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/Screenshot from 2020-09-12 16-29-49.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/Screenshot from 2020-09-12 16-35-19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/Screenshot from 2020-09-12 20-37-53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/Screenshot from 2020-09-14 15-50-22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controller/Manager/ManagerController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controller/User/UserController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model/Provider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/Manager/create.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/Manager/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/Manager/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/User/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/View/User/show.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/include.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python_test/.idea/Python_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python_test/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python_test/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python_test/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python_test/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python_test/Ex1/way1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python_test/Ex1/way2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python_test/Ex2/ex2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python_test/Ex3/ex3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python_test/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myweb/css/nav.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myweb/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myweb/images/galaxy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myweb/images/space.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myweb/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myweb/js/application.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myweb/js/snake.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myweb/nav.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myweb/random.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myweb/snake.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PhpDebugGeneral" show_pre_config_in_web_page="false" />
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="a8ffaa40-1669-4a51-8c1e-369a2965f9b9" name="php" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
+  <component name="ProjectId" id="1hJL5zJSlbopgjx9wx6Egr5nwUk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Controller/User" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Controller/User" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Built-in Web Server.server">
+    <configuration name="server" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$" port="8080" router_script="$PROJECT_DIR$/src/index.php" use_router_script="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="debug" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug" filter_connections="NOT_FILTER">
+      <method v="2" />
+    </configuration>
+    <configuration name="php" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="php">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="PHP Built-in Web Server.server" />
+      <item itemvalue="PHP Remote Debug.debug" />
+      <item itemvalue="PHP Web Page.php" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5806f90-1930-43eb-80f5-6120a4690d30" name="Default Changelist" comment="" />
+      <created>1599724070701</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599724070701</updated>
+      <workItem from="1599724072482" duration="4620000" />
+      <workItem from="1599787544125" duration="12351000" />
+      <workItem from="1599805897854" duration="5786000" />
+      <workItem from="1599812930473" duration="6203000" />
+      <workItem from="1599876525142" duration="3743000" />
+      <workItem from="1599882360490" duration="6707000" />
+      <workItem from="1599899196295" duration="1576000" />
+      <workItem from="1599925930799" duration="599000" />
+      <workItem from="1599961002577" duration="1144000" />
+      <workItem from="1599984966817" duration="2447000" />
+      <workItem from="1600005397960" duration="778000" />
+      <workItem from="1600044914965" duration="5169000" />
+      <workItem from="1600053070402" duration="5261000" />
+      <workItem from="1600062562894" duration="323000" />
+      <workItem from="1600065035306" duration="15335000" />
+      <workItem from="1600089161544" duration="448000" />
+      <workItem from="1600131460606" duration="7852000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="299" y="54" width="824" height="684" key="#CLI_Interpreters" timestamp="1599791320608">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="299" y="54" width="824" height="684" key="#CLI_Interpreters/67.27.1299.741@67.27.1299.741" timestamp="1599791320608" />
+    <state x="345" y="78" width="732" height="637" key="#Inspections" timestamp="1600067825318">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="345" y="78" width="732" height="637" key="#Inspections/67.27.1299.741@67.27.1299.741" timestamp="1600067825318" />
+    <state x="361" y="27" width="700" height="741" key="#PHP" timestamp="1599791324811">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="361" y="27" width="700" height="741" key="#PHP/67.27.1299.741@67.27.1299.741" timestamp="1599791324811" />
+    <state x="299" y="67" width="824" height="684" key="#Servers" timestamp="1599790330843">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="299" y="67" width="824" height="684" key="#Servers/67.27.1299.741@67.27.1299.741" timestamp="1599790330843" />
+    <state x="174" y="27" width="1084" height="741" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600072154479">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="174" y="27" width="1084" height="741" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1299.741@67.27.1299.741" timestamp="1600072154479" />
+    <state x="438" y="198" width="594" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600078011297">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="438" y="198" width="594" height="396" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1299.741@67.27.1299.741" timestamp="1600078011297" />
+    <state x="499" y="155" width="424" height="484" key="FileChooserDialogImpl" timestamp="1599815480032">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="499" y="155" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1599815480032" />
+    <state width="1253" height="27" key="GridCell.Tab.0.bottom" timestamp="1600138666390">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="27" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1600138666390" />
+    <state width="1253" height="27" key="GridCell.Tab.0.center" timestamp="1600138666389">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="27" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1600138666389" />
+    <state width="1253" height="27" key="GridCell.Tab.0.left" timestamp="1600138666389">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="27" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1600138666389" />
+    <state width="1253" height="27" key="GridCell.Tab.0.right" timestamp="1600138666390">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="27" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1600138666390" />
+    <state x="512" y="322" width="399" height="149" key="NewPhpFileDialog" timestamp="1600058454434">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="512" y="322" width="399" height="149" key="NewPhpFileDialog/67.27.1299.741@67.27.1299.741" timestamp="1600058454434" />
+    <state x="205" y="31" key="SettingsEditor" timestamp="1599791797860">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="205" y="31" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1599791797860" />
+    <state x="67" y="27" width="618" height="741" key="find.popup" timestamp="1600067570241">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="27" width="618" height="741" key="find.popup/67.27.1299.741@67.27.1299.741" timestamp="1600067570241" />
+    <state x="379" y="89" key="search.everywhere.popup" timestamp="1600077282984">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="379" y="89" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1600077282984" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/src/index.php</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/src/Controller/Manager/ManagerController.php</url>
+          <line>44</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
