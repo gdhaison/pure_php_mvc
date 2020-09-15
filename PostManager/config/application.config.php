@@ -1,14 +1,6 @@
 <?php
 
-return [
-    'connection' => [
-        'database_type' => 'mysqli',
-        'params' => [
-            'host' => 'localhost',
-            'port' => '3306',
-            'user' => 'root',
-            'password' => '123456',
-            'dbname' => 'testdb',
-        ]
-    ]
-];
+define("DB_HOST", "localhost");
+define("DB_USER", "root");
+define("DB_PASS", "123456");
+define("DB_DATABASE", "testdb");

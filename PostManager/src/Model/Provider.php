@@ -3,10 +3,9 @@ namespace Model;
 
 use PDO;
 use PDOException;
-
+$conf = require_once 'config/application.config.php';
 class Provider
 {
-    private $connectString = 'mysql:host=localhost;dbname=testdb;charset=utf8';
     private static $instance;
 
     public static function getInstance()
@@ -20,7 +19,10 @@ class Provider
     public function excuteQuery(string $query,array $parameters = [])
     {
         try {
-            $connect = new PDO($this->connectString, 'root', '123456');
+            $db_cfg = require_once 'config/application.config.php';
+            $connectString = 'mysql:host='. DB_HOST .';dbname='. DB_DATABASE .';charset=utf8';
+
+            $connect = new PDO($connectString, DB_USER, DB_PASS);
             $connect->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
             $statement = $connect->prepare($query);
@@ -48,7 +50,10 @@ class Provider
     public function excuteNonQuery(string  $query,array $parameters = [])
     {
         try {
-            $connect = new PDO($this->connectString, 'root', '123456');
+            $db_cfg = require_once 'config/application.config.php';
+            $connectString = 'mysql:host='. DB_HOST .';dbname='. DB_DATABASE .';charset=utf8';
+
+            $connect = new PDO($connectString, DB_USER, DB_PASS);
             $connect->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
             $statement = $connect->prepare($query);
 
@@ -69,7 +74,10 @@ class Provider
     public function excuteScalarQuery(string $query,array $parameters = [])
     {
         try {
-            $connect = new PDO($this->connectString, 'root', '123456');
+            $db_cfg = require_once 'config/application.config.php';
+            $connectString = 'mysql:host='. DB_HOST .';dbname='. DB_DATABASE .';charset=utf8';
+
+            $connect = new PDO($connectString, DB_USER, DB_PASS);
             $connect->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
             $statement = $connect->prepare($query);

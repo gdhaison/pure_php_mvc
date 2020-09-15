@@ -6,67 +6,15 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
     </expand>
     <select />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5806f90-1930-43eb-80f5-6120a4690d30" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/PostManager.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/application.config.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/Model.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/boot.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Screenshot from 2020-09-12 16-18-55.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Screenshot from 2020-09-12 16-29-49.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Screenshot from 2020-09-12 16-35-19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Screenshot from 2020-09-12 20-37-53.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Screenshot from 2020-09-14 15-50-22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Controller/Manager/ManagerController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Controller/User/UserController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Model/Provider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/View/Manager/create.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/View/Manager/edit.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/View/Manager/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/View/User/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/View/User/show.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/include.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python_test/.idea/Python_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python_test/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python_test/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python_test/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python_test/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python_test/Ex1/way1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python_test/Ex1/way2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python_test/Ex2/ex2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python_test/Ex3/ex3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python_test/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myweb/css/nav.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myweb/css/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myweb/images/galaxy.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myweb/images/space.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myweb/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myweb/js/application.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myweb/js/snake.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myweb/nav.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myweb/random.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../myweb/snake.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/application.config.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/application.config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/boot.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Model/Provider.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/Provider.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,6 +104,7 @@
       <workItem from="1600065035306" duration="15335000" />
       <workItem from="1600089161544" duration="448000" />
       <workItem from="1600131460606" duration="7852000" />
+      <workItem from="1600151562021" duration="3565000" />
     </task>
     <servers />
   </component>
@@ -203,22 +152,22 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="499" y="155" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1599815480032" />
-    <state width="1253" height="27" key="GridCell.Tab.0.bottom" timestamp="1600138666390">
+    <state width="1253" height="247" key="GridCell.Tab.0.bottom" timestamp="1600155060495">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="27" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1600138666390" />
-    <state width="1253" height="27" key="GridCell.Tab.0.center" timestamp="1600138666389">
+    <state width="1253" height="247" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1600155060495" />
+    <state width="1253" height="247" key="GridCell.Tab.0.center" timestamp="1600155060494">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="27" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1600138666389" />
-    <state width="1253" height="27" key="GridCell.Tab.0.left" timestamp="1600138666389">
+    <state width="1253" height="247" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1600155060494" />
+    <state width="1253" height="247" key="GridCell.Tab.0.left" timestamp="1600155060494">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="27" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1600138666389" />
-    <state width="1253" height="27" key="GridCell.Tab.0.right" timestamp="1600138666390">
+    <state width="1253" height="247" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1600155060494" />
+    <state width="1253" height="247" key="GridCell.Tab.0.right" timestamp="1600155060494">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="27" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1600138666390" />
+    <state width="1253" height="247" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1600155060494" />
     <state x="512" y="322" width="399" height="149" key="NewPhpFileDialog" timestamp="1600058454434">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
